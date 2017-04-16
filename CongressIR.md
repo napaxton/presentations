@@ -1,20 +1,30 @@
 ---
 title: Congress and International Relations
 author: Nathan A. Paxton, Ph.D.
-separator: <!--s-->
-verticalSeparator: <!--v-->
 theme: league
-revealOptions:
-    transition: 'convex'
+
+output:
+  revealjs::revealjs_presentation:
+     incremental: true
+  revealOptions:
+      transition: 'convex'
+	  slideNumber: true
+	  previewLinks: true
+	  controls: true
+  	  progress: true
+      history: false
 ---
-# 
+# A Guide to Congressional Influence
+
 ---
+
 ## Usefulness
 
 What of what you do is useful to a staff or member?
 
-Note:
+
 ----
+
 ## Average Congressional Member
 
 * All sorts of professions
@@ -24,10 +34,6 @@ Note:
   * About 1/5 are former staffers
   * Two RPCVs
   * Three natural scientists
-* Age: 50s-60s
-* Education
-* Length of Service: ~10 years
-* Military Service: ~19 percent
 
 Note:
 Business is (real estate, mgmt consulting, banking, insurance, venture capital, car dealers…)
@@ -35,14 +41,25 @@ one physicist, one microbiologist, and one chemist, all in the House;
 16 current reservists or National Guard
 Education: almost all have bachelor's, three quarters have post-bachelor (law or master's), 24 have doctorate (PhD, EdD, DMin)
 Mil service: all female vets are combat vets
+
+----
+
+## Average Congressional Member
+* Age: 50s-60s
+* Education
+* Length of Service: ~10 years
+* Military Service: ~19 percent
+
+
 ---
+
 ## Average Congressional Staffer
 
-* Bachelor's, Master's, or Law Degree
-* Probably a poli sci major
-* Hierarchy of Policy Staff
-* Size: House and Senate
-* Turnover: *High* (more details?)
+ - Bachelor's, Master's, or Law Degree
+ - Probably a poli sci major
+ - Hierarchy of Policy Staff
+ - Size: House and Senate
+ - Turnover: *High* (more details?)
 
 Note:
 * They are thus *relatively* untrained in norms and methods of research
